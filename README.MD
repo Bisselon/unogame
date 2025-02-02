@@ -1,7 +1,7 @@
 # FAST UNO GAME
 
 ## Installation du jeu
-Fichier .env
+Fichier .env pour la base de données
 ```sh
 DB_HOST=localhost
 DB_USER=postgres
