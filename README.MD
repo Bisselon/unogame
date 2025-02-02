@@ -1,6 +1,11 @@
 # FAST UNO GAME
 
 ## Installation du jeu
+Fichier .env
+DB_HOST=localhost
+DB_USER=postgres
+DB_PASSWORD=root
+DB_NAME=fast_uno
 
 ### MacOS & Linux
 
