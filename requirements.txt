@@ -1,0 +1,7 @@
+InquirerPy==0.3.4 # Pour les menus (CLI)
+pyfiglet==1.0.2 # Pour les titres format ASCII
+pandas==2.2.3 # Pour les dataframes
+colorama==0.4.6 # Pour les couleurs
+python-dotenv==1.0.1 # Pour les variables d'environnement
+psycopg2==2.9.10 # Pour la base de données (PostgreSQL)
+tabulate==0.9.0 # Pour les tableaux
