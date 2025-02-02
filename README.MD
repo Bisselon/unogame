@@ -2,10 +2,12 @@
 
 ## Installation du jeu
 Fichier .env
+```sh
 DB_HOST=localhost
 DB_USER=postgres
 DB_PASSWORD=root
 DB_NAME=fast_uno
+```
 
 ### MacOS & Linux
 
