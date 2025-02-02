@@ -1,8 +1,8 @@
 # FAST UNO GAME
 
-### Installation du jeu
+## Installation du jeu
 
-## MacOS & Linux
+### MacOS & Linux
 
 ```sh
 python3 -m venv venv
@@ -12,7 +12,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-## Windows
+### Windows
 
 ```sh
 python3 -m venv venv
